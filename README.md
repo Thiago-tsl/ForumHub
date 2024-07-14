@@ -92,6 +92,6 @@ Em resumo, nosso objetivo com este challenge é implementar uma API REST com as 
 
 ## 📝 Licença
 
-Projeto desenvolvido por [Lavínia Barbosa](https://github.com/LaviniaBDantas). Utilizado como aprendizado nos cursos de Spring Boot da Alura.
+Projeto desenvolvido por Thiago Sousa Utilizando com base no projeto da Lavínia Barbosa.
 
 ---
